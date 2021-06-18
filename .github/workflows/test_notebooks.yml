@@ -1,4 +1,4 @@
-name: Test-Notebooks
+name: Github-Action-Test-Notebooks
 
 # Run every time a new commit is pushed
 on: push

@@ -9,6 +9,8 @@
 </p>
 <svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"></svg>
 
+[![github-actions-test-notebook](https://github.com/viplazylmht/P4DS_final/actions/workflows/test_notebooks.yml/badge.svg)](https://github.com/viplazylmht/P4DS_final/actions/workflows/test_notebooks.yml)
+
 <h2>Contributors & References</h2>
 
 | STT | Họ và Tên | MSSV | Gid
