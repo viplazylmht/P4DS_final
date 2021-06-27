@@ -6,6 +6,9 @@
   <a href="https://github.com/vohieu00">
     <img src="https://img.shields.io/badge/18120379-vohieu00-brightgreen.svg">
   </a>
+    <a href="https://colab.research.google.com/github/viplazylmht/P4DS_final/blob/master/P4DS_Final.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg">
+  </a>
 </p>
 <svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"></svg>
 
