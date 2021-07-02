@@ -25,10 +25,16 @@
 
 <h2>Overview</h2>
 
-Dataset: [2015 de-identified NY inpatient discharge (SPARCS)](https://www.kaggle.com/jonasalmeida/2015-deidentified-ny-inpatient-discharge-sparcs)
+Dataset: [2015 de-identified NY inpatient discharge (SPARCS)](https://www.kaggle.com/jonasalmeida/2015-deidentified-ny-inpatient-discharge-sparcs)  
+
+Original data source: [health.data.ny.gov](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/82xm-y6g8)  
+
+This dataset contain the use of health services and also charges of each customers from many hospital in New York City. For privacy, some user informations had been rejected.  
+
+From this data set, we can examine the behaviour of Americans patient and also the quality of New York medical.  
 
 <h2>Workflow</h2>
 
-You can view our workflow, timeline, log and so on from [here](https://docs.google.com/spreadsheets/d/1eNda_-buasK_seShiVhYvFpO4M__nwYn_1mTl8OGVys/edit?usp=sharing)
+You can view our workflow, timeline, log and so on from [here](https://docs.google.com/spreadsheets/d/1eNda_-buasK_seShiVhYvFpO4M__nwYn_1mTl8OGVys/edit?usp=sharing).
 
 <svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"></svg>
