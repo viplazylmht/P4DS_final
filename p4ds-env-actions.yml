@@ -1,0 +1,18 @@
+name: p4ds-env-actions
+channels:
+- conda-forge
+dependencies:
+
+- jupyterlab=3.0.14
+- jupyter_contrib_nbextensions=0.5.1
+- python=3.8.8
+- matplotlib=3.4.1
+- numpy=1.20.2
+- pandas=1.2.4
+- nbdime=3.0.0
+- nbformat
+- nbconvert
+- requests=2.24.0
+- pytest
+
+#- nbgrader=0.6.1 # @teacher: uncomment this line 
