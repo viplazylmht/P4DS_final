@@ -22,10 +22,10 @@ def process_notebook(notebook_filename):
 
                 for o in cell['outputs']:
                     if 'execution_count' in o:
-                        del o['execution_count']
+                        o['execution_count'] = 'null'
 
-                    if 'metadata' in o:
-                        del o['metadata']
+                    #if 'metadata' in o:
+                    #    del o['metadata']
 
         elif 'execution_count' in cell.keys():
             del cell['execution_count']
