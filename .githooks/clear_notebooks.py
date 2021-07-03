@@ -17,6 +17,16 @@ def process_notebook(notebook_filename):
         
         if cell["cell_type"] == 'code':
             cell['execution_count'] = 'null'
+
+            if 'outputs' in cell.keys():
+
+                for o in cell['outputs']:
+                    if 'execution_count' in o:
+                        del o['execution_count']
+
+                    if 'metadata' in o:
+                        del o['metadata']
+
         elif 'execution_count' in cell.keys():
             del cell['execution_count']
 
