@@ -14,5 +14,6 @@ dependencies:
 - nbconvert
 - requests=2.24.0
 - pytest
+- scipy=1.4.1
 
 #- nbgrader=0.6.1 # @teacher: uncomment this line 
