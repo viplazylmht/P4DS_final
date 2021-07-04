@@ -18,6 +18,7 @@ jobs:
       - name: Check clean notebook
         shell: bash -l {0}
         run: |
+          chmod 0755 .github/workflows/clean_nb_check.sh
           ./.github/workflows/clean_nb_check.sh
 
       - name: Install conda environment
