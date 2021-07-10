@@ -33,8 +33,18 @@ This dataset contain the use of health services and also charges of each custome
 
 From this data set, we can examine the behaviour of Americans patient and also the quality of New York medical.  
 
+Data file: [direct link](https://drive.google.com/file/d/1UKxIYjWw6sPuITsv6RjgNsEFpx3vMJNX/view?usp=sharing)
+
 <h2>Workflow</h2>
 
 You can view our workflow, timeline, log and so on from [here](https://docs.google.com/spreadsheets/d/1eNda_-buasK_seShiVhYvFpO4M__nwYn_1mTl8OGVys/edit?usp=sharing).
+
+<h2>Run notebook</h2>
+
+Please upgrade ur enviroment before run this notebook to make sure all set.
+
+```bash
+pip install -r requirements.txt
+```
 
 <svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"></svg>
